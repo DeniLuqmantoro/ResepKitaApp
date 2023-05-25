@@ -2,7 +2,7 @@
 Tugas Pemrograman Mobile
 
 
-A. Storyboard ResepkitaApp<br>
+A. <h2 align="center"><b>Storyboard ResepkitaApp</b></h2><br>
 
 ResepkitaApp merupakan aplikasi yang membantu menemukan berbagai inspirasi resep masakan, maupun minuman. Dengan adanya ResepkitaApp    membuat menu masakan setiap hari lebih inovatif. Didalam aplikasi juga dilengkapi dengan fitur “Isi kulkas”, dimana pengguna dapat menentukan apa saja bahan yang akan dimasak, dan ResepkitaApp akan memberikan rekomendasi resep masakan sesuai dengan bahan yang ditentukan oleh pengguna. Berikut fitur-fitur yang ada dalam ResepkitaApp:
 
@@ -18,7 +18,7 @@ Pengguna dapat menambahkan resep kedalam aplikasi meliputi gambar masakan, judul
 4. Akun pengguna<br>
 Didalam fitur akun, pengguna dapat melihat resep saya, resep tersimpan, dan mencari nya menggunakan kolom pencarian, pengguna juga dapat mengedit profil seperti foto profil, username, email.
 
-B. User Interface ResepKitaApp
+B. <h2 align="center"><b>User Interface ResepKitaApp</b></h2>
 
 
 ![ResepKita1](https://github.com/DeniLuqmantoro/ResepKitaApp/assets/101716699/0460cce9-adac-44eb-a1ec-48214a94d7fb)
