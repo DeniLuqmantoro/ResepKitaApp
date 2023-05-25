@@ -3,6 +3,7 @@ Tugas Pemrograman Mobile
 
 
 A. Storyboard ResepkitaApp<br>
+
 ResepkitaApp merupakan aplikasi yang membantu menemukan berbagai inspirasi resep masakan, maupun minuman. Dengan adanya ResepkitaApp    membuat menu masakan setiap hari lebih inovatif. Didalam aplikasi juga dilengkapi dengan fitur “Isi kulkas”, dimana pengguna dapat menentukan apa saja bahan yang akan dimasak, dan ResepkitaApp akan memberikan rekomendasi resep masakan sesuai dengan bahan yang ditentukan oleh pengguna. Berikut fitur-fitur yang ada dalam ResepkitaApp:
 
 1. Insiprasi resep hari ini<br>
